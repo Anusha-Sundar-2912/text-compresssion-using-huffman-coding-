@@ -1,7 +1,4 @@
-/* 
-	Author : Samir Paul
 
-*/
 // export { MinHeap }
 class MinHeap {
     constructor() {
